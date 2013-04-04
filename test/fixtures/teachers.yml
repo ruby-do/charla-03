@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Jose
+  salary: 23000
+  shifts: 2
+  years: 14
+
+two:
+  name: Juan
+  salary: 12000
+  shifts: 1
+  years: 6
